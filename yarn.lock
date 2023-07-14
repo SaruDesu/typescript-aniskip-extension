@@ -4022,12 +4022,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^18.2.4":
-  version: 18.2.4
-  resolution: "@types/react-dom@npm:18.2.4"
+"@types/react-dom@npm:^18.2.7":
+  version: 18.2.7
+  resolution: "@types/react-dom@npm:18.2.7"
   dependencies:
     "@types/react": "*"
-  checksum: 8301f35cf1cbfec8c723e9477aecf87774e3c168bd457d353b23c45064737213d3e8008b067c6767b7b08e4f2b3823ee239242a6c225fc91e7f8725ef8734124
+  checksum: e02ea908289a7ad26053308248d2b87f6aeafd73d0e2de2a3d435947bcea0422599016ffd1c3e38ff36c42f5e1c87c7417f05b0a157e48649e4a02f21727d54f
   languageName: node
   linkType: hard
 
@@ -4074,14 +4074,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^18.2.9":
-  version: 18.2.9
-  resolution: "@types/react@npm:18.2.9"
+"@types/react@npm:^18.2.15":
+  version: 18.2.15
+  resolution: "@types/react@npm:18.2.15"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: f155256171a2d701eb962a1d3aa2a1c9ee36d9dd4a4aecb911d29e50717aab1a76914aef25242665147c455b9e8d081d1a60275d13ca81075c148ebd6607414a
+  checksum: 36989f638201bfe2f4110b06c119180f6df9c0e13d7060481e82e7a745f81745a01ae543c478a25b61e0767cb52e82da2ad5b0dedacabf99339e523d06176705
   languageName: node
   linkType: hard
 
@@ -17951,9 +17951,9 @@ __metadata:
     "@reduxjs/toolkit": ^1.9.5
     "@types/chrome": ^0.0.241
     "@types/glob-to-regexp": ^0.4.1
-    "@types/react": ^18.2.9
+    "@types/react": ^18.2.15
     "@types/react-color": ^3.0.6
-    "@types/react-dom": ^18.2.4
+    "@types/react-dom": ^18.2.7
     "@types/sprintf-js": ^1.1.2
     "@types/string-similarity": ^4.0.0
     "@types/tailwindcss": ^3.0.11

@@ -5,6 +5,7 @@ import { Animepahe } from './animepahe';
 import { Crunchyroll } from './crunchyroll';
 import { CrunchyrollBeta } from './crunchyroll-beta';
 import { Gogoanime } from './gogoanime';
+import { Marin } from './marin';
 import { NekoSama } from './nekosama';
 import { Nineanime } from './nineanime';
 import { Twistmoe } from './twistmoe';
@@ -18,6 +19,7 @@ export class PageFactory {
     Crunchyroll,
     CrunchyrollBeta,
     Gogoanime,
+    Marin,
     NekoSama,
     Nineanime,
     Twistmoe,

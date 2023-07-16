@@ -1,11 +1,11 @@
 {
   "variant": "videojs",
   "playerUrls": [
+    "*://*.dood.*/*",
+    "*://*.doodcdn.co/*",
     "*://4anime.to/*",
     "*://aniboom.one/*",
-    "*://dood.la/*",
-    "*://dood.to/*",
-    "*://dood.ws/*",
+    "*://dood.*/*",
     "*://mixdrop.co/e/*",
     "*://mp4.sh/*",
     "*://www.mp4upload.com/*",
